@@ -1,0 +1,12 @@
+# Node.js dependencies
+# This file is used to ignore files and directories in a Node.js project.
+# It is typically used to prevent certain files from being tracked by Git.
+# Commonly ignored files include:
+# - Node.js modules
+# - Logs
+# - Build outputs
+# - Environment variables
+# - Dependency directories          
+
+node_modules
+
